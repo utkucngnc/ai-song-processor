@@ -1,0 +1,1 @@
+This project takes a song and extracts only vocals. It finds the metadata of the song and creates a dataset in MusDb format for further usage. The splitter could be trained in PyTorch, or a pre-trained Tensorflow checkpoints could be used. The splitter is based on [Spleeter] from Deezer. A GUI will be provided for easy usage.
